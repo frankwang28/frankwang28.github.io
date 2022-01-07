@@ -2,9 +2,10 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {{ post.excerpt | truncatewords: 50 }}
+    {% assign truncateLimit = 100}
+    {{ post.excerpt | truncatewords: truncateLimit }}
     {% assign wordCount = post.content | number_of_words %}
-    {% if wordCount > 50 %}
+    {% if wordCount > truncateLimit %}
       <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
     {% endif %}
   </article>
