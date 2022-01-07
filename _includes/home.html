@@ -2,7 +2,7 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {% assign truncateLimit = 100}
+    {% assign truncateLimit = 100 %}
     {{ post.excerpt | truncatewords: truncateLimit }}
     {% assign wordCount = post.content | number_of_words %}
     {% if wordCount > truncateLimit %}
