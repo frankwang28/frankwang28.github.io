@@ -7,4 +7,4 @@ layout: post
 
 Tetris Online was a collaborative academic project in which my team created an online multiplayer Tetris game.
 
-More to come ...
+Tetris has always been one of my favorite games, maybe because I am a bit of a math guy. For my last high school programming project, two of my friends and I decided to create an online multiplyer versus Tetris game. The whole game itself uses HTML, CSS, Javascript, Socket.io and Node.js, but I primarily focused on the game logic using Javascript. The initial stages was just implementing (most) of the [guideline Tetris rules](https://harddrop.com/wiki/Tetris_Guideline). From there, we decided to add our own touch with game modifiers and other custom additions. 
