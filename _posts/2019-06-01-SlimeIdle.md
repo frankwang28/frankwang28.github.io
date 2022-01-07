@@ -2,25 +2,8 @@
 title: "SlimeIdle"
 layout: post
 ---
-##### Jun 2019 - Jan 2020
+##### Jun 2019 - Sept 2020
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+SlimeIdle was a personal project where I aimed to create my own [incremental game](https://en.wikipedia.org/wiki/Incremental_game) for mobile devices.
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I created the game using the Unity engine and programmed the game using C#. As this was my first time using Unity, there was a lot of learning to do. It was fun trying to design and plan out the overall game. Additionally, I learned about the graphical aspects of grame development; I designed my own sprites and learned to animate in Unity. However, as the project progressed, I realized that my lack of Unity experience was significantly hindering my progress (especially [prefabs](https://docs.unity3d.com/Manual/Prefabs.html)) and there would have to be a lot of refactoring that needed to be done. However, as my first term of University drew near, I decided to put the project on an indefinte hold. While the game is far from something fun and enjoyable, I was happy with the many thing I learned and that at least I created _something_ playable.
