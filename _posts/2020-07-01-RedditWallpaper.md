@@ -14,3 +14,7 @@ The first challenge I encountered was at the start of the project and quite an i
 The second challenge in this process was the automation of getting new wallpapers. This is where the [mess of developing for Android](https://www.reddit.com/r/androiddev/comments/en5of4/possible_rant_why_android_development_seems_like/) really came to a head. Properly trying to implement an automatic system proved to be an incredible problem. Finding similar solutions on StackOverflow for it to only be outdated/deprecated or for some implementations to [not work on certain devices](https://dontkillmyapp.com/) was quite demoralizing. Eventually after a long period of testing various methods, I found a solution that I am relatively content with. From there, adding some extra features like contrast and saturation tuning were all much less painful as it was mostly just Java code which didn't rely on the Android side of things. 
 
 While the functionality of the app is there, I plan on eventually coming back to this app and iron out some of the rough edges. The main issue is with setting wallpapers with correct resolution while running high CPU comsuming apps in the foreground. While I have implemented a manual fix, finding a proper solution would be ideal. Additionally, adding more features and overall content to the app is also in the pipeline. 
+
+### Languages/Technologies: Java, Android Studio
+
+[Github Repository](https://github.com/frankwang28/RedditWallpaper)
