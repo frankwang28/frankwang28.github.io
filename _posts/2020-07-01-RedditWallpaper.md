@@ -15,6 +15,6 @@ The second challenge in this process was the automation of getting new wallpaper
 
 While the functionality of the app is there, I plan on eventually coming back to this app and iron out some of the rough edges. The main issue is with setting wallpapers with correct resolution while running high CPU comsuming apps in the foreground. While I have implemented a manual fix, finding a proper solution would be ideal. Additionally, adding more features and overall content to the app is also in the pipeline. 
 
-### Languages/Technologies: Java, Android Studio
+#### Languages/Technologies: Java, Android Studio
 
 [Github Repository](https://github.com/frankwang28/RedditWallpaper)
