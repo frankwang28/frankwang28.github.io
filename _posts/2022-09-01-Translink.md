@@ -11,4 +11,4 @@ Using a combination of HTML, CSS, PHP, and SQL, my team and I designed a user-fr
 
 #### Languages/Technologies: SQL, HTML, CSS, PHP, JavaScript
 
-Unfortunately, due to course policies, I cannot provide a GitHub link but I can provide a [demo](https://www.students.cs.ubc.ca/~samc5670/route-search.php) (which is hopefully still up but may be taken down as it is hosted by one of my teammates).
+Unfortunately, due to course policies, I cannot provide a GitHub link.
