@@ -14,5 +14,7 @@ Using a combination of HTML, CSS, PHP, and SQL, my team and I designed a user-fr
 Unfortunately, due to course policies, I cannot provide a GitHub link.
 
 Screenshots:
+
 ![screenshot1](/assets/translink.jpg)
+
 ![screenshot2](/assets/translink2.jpg)
