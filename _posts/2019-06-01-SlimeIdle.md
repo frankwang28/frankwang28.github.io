@@ -13,4 +13,5 @@ I created the game using the Unity engine and programmed the game using C#. As t
 [Github Repository](https://github.com/frankwang28/SlimeIdle)
 
 Screenshots:
+
 ![screenshot](/assets/slimeidle.png)
