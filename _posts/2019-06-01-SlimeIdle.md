@@ -11,3 +11,6 @@ I created the game using the Unity engine and programmed the game using C#. As t
 #### Languages/Technologies: C#, Unity
 
 [Github Repository](https://github.com/frankwang28/SlimeIdle)
+
+Screenshots:
+![screenshot](/assets/images/slimeidle.png)
