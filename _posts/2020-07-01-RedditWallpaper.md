@@ -18,3 +18,7 @@ While the functionality of the app is there, I plan on eventually coming back to
 #### Languages/Technologies: Java, Android Studio
 
 [Github Repository](https://github.com/frankwang28/RedditWallpaper)
+
+Screenshot:
+
+![screenshot](/assets/redwall.png)
