@@ -12,4 +12,4 @@ Tetris has always been one of my favorite games, maybe because I am a bit of a m
 
 #### Languages/Technologies: Javascript, HTML, CSS, Socket.io, Node.js
 
-[Github Repository](https://github.com/StuffByLiang/tetris-online)
+[Github Repository](https://github.com/StuffByLiang/tetris-online) and [Demo](https://tetris.stuffbyliang.com/)
