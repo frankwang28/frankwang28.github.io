@@ -5,7 +5,7 @@ layout: post
 
 ##### Jul 2020 - Aug 2021
 
-RedditWallpaper is an Android wallpaper application that periodically gets images from a specified Reddit page and sets it as the wallpaper
+RedditWallpaper is an Android wallpaper application that periodically gets images from a specified Reddit page and sets it as the wallpaper.
 
 A dream of mine is to travel and see the world and [specific subreddits](https://www.reddit.com/r/EarthPorn/) allow me to have a glimpse of such adventures. One day, I decided why not and create an app to set my phone's Wallpaper to those scenic images. However, there were two large hurdles in this process.
 
